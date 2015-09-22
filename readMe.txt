@@ -8,3 +8,4 @@ Creating a new branch is quick.----1
 >>>>>>> dev
 Creating a new branch is quick.----9
 dev1--->1
+dev1--->2
